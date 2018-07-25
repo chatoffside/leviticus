@@ -1,5 +1,5 @@
 # leviticus
-Leviticus is a test-network for Ethereum smart-contracts
+Leviticus is a platform for managing Ethereum smart-contracts
 
 ## Steps
 
